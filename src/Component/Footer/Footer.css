@@ -1,0 +1,56 @@
+.center {
+    text-align: center;
+    margin: auto;
+  }
+  input {
+    width: 324px;
+    height: 50px;
+    border-radius: 20px;
+    padding: 5px;
+    border: 1px solid rgb(230, 224, 224);
+    outline: 0;
+  }
+  .logo img{
+    margin-top: 5%;
+  }
+  .btn-search {
+    width: 147px;
+    height: 44px;
+    background-color: #fa6400;
+    color: #fff;
+    border-radius: 20px;
+    outline: 0;
+    border: 0;
+  }
+  
+  .search {
+    margin-bottom: 50px;
+  }
+  
+ .icon {
+    cursor: pointer;
+    color: #3d4354;
+    font-size: 21px;
+    margin: 7% 2%;
+}
+  
+ li {
+    margin: auto;
+    list-style: none;
+  }
+  
+  .footer-item li a {
+    color: #3d4354;
+  }
+  .copy {
+    color: #3d4354;
+    margin-top: 50px;
+  }
+  
+  .footer-item{
+    display: flex;
+    margin-left: 1%;
+
+  }
+
+ 

@@ -1,0 +1,39 @@
+.Ambassadors-title {
+    text-align: center;
+    margin-top: 4%;
+  }
+  span {
+    color: #6e7187;
+  }
+  
+  .persons {
+    display: flex;
+  
+  }
+  .person-one {  text-align: center;
+
+  }
+  .person-one img{
+    margin: 0;
+  }
+  .content{
+    margin: 10%;
+  }
+  .person-one .person-name {
+    color: #3d4354;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .person-employ {
+    color: #3d4354;
+    margin: 15px 0px;
+  }
+  .person-desc {
+    color: #6e7187;
+  }
+  
+  .person-desc{
+    width: 50%;
+    margin: auto;
+  }

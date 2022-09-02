@@ -1,0 +1,73 @@
+*{
+  margin: 0%;
+  padding:0% ;
+  box-sizing: border-box;
+}
+.courses,
+.Students,
+.Countries {
+  width: 315px;
+  height: 228px;
+  border-radius: 15px;
+  margin-right: 0% !important;
+  text-align: center;
+  margin: 15% auto;
+  margin-left: 5% !important;
+
+}
+.table-bg{
+  background-image: url(bg/Group\ 86.png);
+background-position: center;
+height: 50%;
+background-repeat: no-repeat;
+}
+.courses {
+  background-color: #ffeeee;
+  text-align: center;
+}
+
+.Students {
+  background-color: #fff5ea;
+}
+
+.Countries {
+  background-color: #f1eefe;
+
+}
+
+.icon-Telegram {
+  background-color: #6140e9;
+  color: #fff;
+  width: 120px;
+  height: 120px;
+  margin-top: 20px;
+  border-radius: 50%;
+  padding: 20px;
+}
+.icon-Cap {
+  color: #fff;
+  width: 120px;
+  height: 120px;
+  margin-top: 20px;
+  border-radius: 50%;
+  padding: 20px;
+}
+.icon-book {
+  color: #fff;
+  width: 120px;
+  height: 120px;
+  margin-top: 20px;
+  border-radius: 50%;
+  padding: 20px;
+  background-color: #f03a71;
+  padding: 40px;
+}
+
+.table-foot {
+margin-top:15% ;
+}
+
+
+@media only screen and (min-width: 600px) {
+
+}

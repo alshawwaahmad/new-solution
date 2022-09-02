@@ -1,0 +1,113 @@
+  .position-title{
+    margin-top: 10%;
+    text-align: left;
+  }
+  .position-desc{
+    text-align: left;
+  }
+
+  .position{
+    background-image: url(img/Group\ 211.png);
+  }
+  .component button {
+    margin-bottom: 40px;
+  }
+  
+  .courses h3,.Students h3,.Countries h3
+  {
+    font-size: 16px;
+    margin-top: 5%;
+  }
+  .arrow-parent {
+    position: relative;
+  }
+  .arrow-left {
+    position: absolute;
+    right: 100px;
+    border: 1px solid #ddd;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 15px;
+    color: #ddd;
+    bottom: 30px;
+  }
+  .arrow-right {
+    position: absolute;
+    right: 60px;
+    bottom: 30px;
+    background-color: #fff0;
+    border: 1px solid #fe9610;
+    color: #fe9610;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+  
+  .STEM,.education,.Quality{
+    background-color: #ddd;
+    border-radius: 15px;
+    height: 250px;
+    width: 220px;
+    text-align: center;
+  }
+
+
+  .contact-content {
+    display: flex;
+  
+    justify-content: space-around;
+  }
+.content{
+  margin-top: 5% ; 
+}
+  .courses,
+  .Students,
+  .Countries {
+    width: 315px;
+    height: 228px;
+    border-radius: 15px;
+    text-align: center;
+    margin-bottom: 140px;
+    margin-left: 25%;
+  }
+  .icon {
+    margin: 70px 0 20px;
+  }
+  
+  .trust {
+    text-align: center;
+    margin-bottom: 140px;
+  }
+  
+
+  .icon-Telegram {
+    background-color: #8269f0;
+    color: #fff;
+    width: 120px;
+    height: 120px;
+    margin-top: 20px;
+    border-radius: 50%;
+    padding: 20px;
+    color: #fff;
+
+  }
+  .icon-Cap{
+    background-color: #62e1ac;
+    color:#fff ;
+    width: 120px;
+    height: 120px;
+    margin-top: 20px;
+    border-radius: 50%;
+    padding: 20px;
+  }
+  .icon-book {
+    color: #fff;
+    width: 120px;
+    height: 120px;
+    margin-top: 20px;
+    border-radius: 50%;
+    padding: 20px;
+    background-color: #ff807e;
+    padding: 40px;
+  }

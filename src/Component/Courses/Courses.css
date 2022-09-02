@@ -1,0 +1,88 @@
+.cours-title {
+    color: #333;
+    text-align: left;
+  }
+  
+  .arrow-parent{
+    margin: 20%;
+  }
+  .course-btn{
+    margin:1% 5%;
+    display: inline-block;
+  }
+  span {
+    display: block;
+  }
+  .course-btn button {
+    margin: 30px;
+  }
+ 
+  .All {
+    background-color: orange;
+    width: 107px;
+    height: 60px;
+    border: 0;
+    border-radius: 50px;
+  }
+  
+  .Coding,
+  .Digital,
+  .Visual {
+    width: 222px;
+    height: 60px;
+    border: 0;
+    border-radius: 50px;
+    background-color: rgb(247, 247, 247);
+    margin: 2%;
+  }
+  img {
+    border-radius: 15px;
+    margin-top:20%;
+  }
+  
+  .about-us {
+    margin: 20px 0px;
+  }
+  
+  .join-btn {
+    width: 130px;
+    height: 40px;
+    border-radius: 50px;
+    border: 0;
+    background-color: #008efa;
+    color: #fff;
+    
+  }
+  .price {
+    color: #0edda6;
+    font-size: 24px;
+    text-align: end;
+    margin-right: 40px;
+  }
+  
+  .course-content {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+  }
+  
+  .course-content-title{
+    margin-top: 5%;
+  }
+  .course-item {
+    width: 30%;
+  }
+  
+  .cours-title{
+    margin-top: 4%;
+
+  }
+    .see-btn{
+      width: 130px;
+      height: 40px;
+      border-radius: 50px;
+      border: 0;
+      background-color: #FFF7EC;
+      color: #FB944E;
+      margin-top: 10%;
+    }

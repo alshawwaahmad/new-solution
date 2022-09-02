@@ -1,0 +1,47 @@
+:root {
+    --basic: #3d4354;
+  }
+.register-btn{
+    border: 0 !important;
+    color: #fff;
+    background-color: #fa6400;
+    min-width: 55%;
+    max-width: 68%;
+    margin-right: 3%;
+}
+.home-logo{
+margin-top: 0;
+}
+.select-item{
+    max-width: 25%;
+    border: 0;
+}
+.register-btn:hover{
+    background-color: #fa6400;
+}
+.login{
+    margin-right: 3% ;
+    color: var(--basic);
+}
+
+
+.nav-item{
+    color: var(--basic);
+}
+
+.form-item{
+    width: 30%;
+}
+
+@media only screen and (max-width: 980px) {
+
+    .register-btn {
+        border: 0 !important;
+        color: #fff;
+        background-color: #fa6400;
+        min-width: 114%;
+        max-width: 70%;
+        margin: 0% 50%;
+    }
+
+}

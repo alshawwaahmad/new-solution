@@ -1,0 +1,40 @@
+.Mission {
+  background-color: #ff6765;
+  color: #fff;
+  height: 100%;
+  padding: 0;
+  width: 100%;
+}
+.Mission-content,.Vision-contnent{
+  margin-left: 10%;
+  width: 75%;
+}
+.mission-btn,.Vision-btn {
+  margin: 50px 10px;
+  width: 93px;
+  height: 93px;
+  border-radius: 50%;
+  border: 0;
+}
+
+.Vision {
+  background-color: #694bed;
+  color: #fff;
+  height: 100%;
+  padding: 0;
+  width: 100%;
+
+  
+}
+
+.Mission h3,
+.Vision h3 {
+  margin-bottom: 2%;
+}
+
+
+.gps,
+.eye {
+  color: #3d4354;
+  font-size: 45px;
+}

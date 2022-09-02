@@ -1,0 +1,44 @@
+.about-title {
+    text-align: center;
+    margin: 90px 0px;
+  }
+  
+  .about-data{
+margin: 5% ;
+  }
+  
+  .about-contnet-rigth {
+    width: 50%;
+margin: 5% auto;
+  }
+  
+  .about-content-left {
+    width: 50%;
+    margin-left: 25%;
+
+  }
+  
+  .about-contnet-rigth p{
+    width: 150%;
+  }
+  .about-contnet-rigth h2 {
+    background-color: rgb(9, 147, 202);
+    border-radius: 50%;
+    width: 110px;
+    height: 110px;
+    text-align: center;
+    color: #fff;
+    font-size: 44px;
+    padding-top: 30px;
+  }
+  
+  .about-contnet-rigth h3 {
+    margin: 20px;
+  
+    font-size: 30px;
+  }
+  
+  .about-contnet-rigth p {
+    font-size: 20px;
+  }
+  
